@@ -8,3 +8,5 @@ git clone <this repo>
 cd ViProsodic
 mv * /anaconda3/envs/viTTS/lib/python3.6/site-packages/prosodic
 ```
+
+The prosodic function can be called directly as any normal function, push it anywhere that you can import it
